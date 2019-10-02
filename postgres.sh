@@ -1,0 +1,1 @@
+sudo docker run --name postgres -e POSTGRES_PASSWORD=secret -d postgres
