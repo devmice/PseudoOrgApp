@@ -1,2 +1,7 @@
+#Pipfile Lock file
 Pipfile.lock
+#vs_code settings
 .vscode
+#python cache files
+*.pyc
+*.cpython
